@@ -3,7 +3,7 @@
 
 ### 1. Install Cypress
 
-[Refer to](https://on.cypress.io/guides/installing-and-running#section-installing)[to install Cypress on your system]
+[Refer to(https://on.cypress.io/guides/installing-and-running#section-installing)to install Cypress on your system]
 
 ### 2. Fork this repo
 
