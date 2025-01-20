@@ -1,5 +1,5 @@
 class AccountPage {
     visit() {
-      cy.visit('https://magento.softwaretestingboard.com/');
+      cy.visit('https://www.saucedemo.com/');
     }
 }
