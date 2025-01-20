@@ -1,4 +1,4 @@
-# Sauce-Demo_CypressAutomationTest
+# Sauce Demo Website Automation Test Using Cypress
 ## Getting Started ##
 
 ### 1. Install Cypress
