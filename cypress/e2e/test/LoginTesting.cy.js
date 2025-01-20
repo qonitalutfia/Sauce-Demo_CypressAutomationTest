@@ -1,0 +1,5 @@
+describe('Login-Testing', () => {
+  it('passes', () => {
+    cy.visit('https://example.cypress.io')
+  })
+})

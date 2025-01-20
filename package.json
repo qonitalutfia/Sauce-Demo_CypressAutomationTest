@@ -1,0 +1,23 @@
+{
+  "name": "sauce-demo_cypressautomationtest",
+  "version": "1.0.0",
+  "description": "Refer to [this](https://on.cypress.io/guides/installing-and-running#section-installing) to install Cypress on your system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qonitalutfia/Sauce-Demo_CypressAutomationTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qonitalutfia/Sauce-Demo_CypressAutomationTest/issues"
+  },
+  "homepage": "https://github.com/qonitalutfia/Sauce-Demo_CypressAutomationTest#readme",
+  "devDependencies": {
+    "cypress": "^14.0.0"
+  }
+}
